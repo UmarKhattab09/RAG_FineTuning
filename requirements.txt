@@ -1,0 +1,17 @@
+datasets
+evaluate
+transformers
+torch
+torchvision
+transformers[torch]
+# en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.7.1/en_core_web_trf-3.7.1-py3-none-any.whl
+# spacy
+#pyvis
+python-dotenv
+numpy
+pandas
+Gradio
+langchain
+sentence-transformers
+langchain_community
+pinecone
